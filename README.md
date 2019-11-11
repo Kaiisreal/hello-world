@@ -1,2 +1,3 @@
 # hello-world
-hello
+Hello, I am just testing this,
+as a hello-world site.
